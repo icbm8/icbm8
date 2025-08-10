@@ -1,4 +1,12 @@
-## Hi there 👋
+## icbm8
+
+Salutations good sir/madam.
+I sometimes create random projects here.
+
+*I mostly use Python, though sometimes I remix other repositories and tweak them
+*Currently working on a simple To-Do list application with Python
+
+
 
 <!--
 **icbm8/icbm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
